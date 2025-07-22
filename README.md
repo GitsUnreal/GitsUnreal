@@ -13,7 +13,6 @@
 Here are some of my personal projects:
 - 🛰️ **Drone Simulation** – Boids-based simulator with AI navigation ([link](https://github.com/your-repo))
 - 🧠 **Custom CNN Trainer** – CIFAR-10 classifier with custom forward/backprop ([link](https://github.com/your-repo))
-- ⚙️ **Logic Circuit Compiler** – Mini-compiler using ANTLR for a custom hardware DSL ([link](https://github.com/your-repo))
 
 ## 📫 Contact
 - 📧 simonrolsen@gmail.com
