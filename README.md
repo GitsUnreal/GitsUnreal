@@ -5,7 +5,7 @@
 💻 I enjoy building things—from neural networks to compilers and drone simulators.
 
 ## 🔧 Tech Stack
-- Languages: Python, Java, C++, Bash
+- Languages: Python, Java, C++, C
 - Tools: Git, GitHub, VSCode, Linux
 - Libraries: PyTorch (basics), Scikit-learn, NumPy, OpenCV
 
